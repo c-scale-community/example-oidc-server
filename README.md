@@ -78,4 +78,4 @@ You can also send an API-style request with `Authorization: Bearer <access_token
 curl -H 'Authorization: Bearer ACCESS_TOKEN_HERE' 'https://example.com/api/index.php'
 ```
 
-Replace `ACCESS_TOKEN_HERE` with a valid access token (has to be fresh). You can obtain your access token for example from the testing page.
+Replace `ACCESS_TOKEN_HERE` with a valid access token (has to be fresh). You can obtain your access token for example from the testing page or from https://aai.egi.eu/token/.
